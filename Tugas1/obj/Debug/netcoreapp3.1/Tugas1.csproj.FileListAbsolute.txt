@@ -1,0 +1,42 @@
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.AssemblyReference.cache
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.AssemblyReference.cache
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+D:\METRODATA\.net\latihan\TugasIndividu-main\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.AssemblyReference.cache
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+D:\METRODATA\.net\latihan\Achmad Nur Fauzi\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
